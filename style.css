@@ -1,0 +1,53 @@
+body{
+    background-image:url(background.jpg);
+    background-size: 1550px;
+    margin: 90px 350px;
+    color: white;
+    
+}
+
+.container{
+    background-color: rgba(0,0,0,0.5);
+    padding-top: 2%;
+    padding: 5%;
+    border-radius: 3%;
+}
+
+header{
+    text-align: center;
+    color: lime;
+}
+
+.logo{
+    width: 235px;
+}
+
+nav{
+    text-align: center;
+    background-color: lime;
+    padding: 10px;
+}
+
+.hr1{
+    margin-left: 0%;
+    width: 260px;
+    height: 20px;
+    background-color: rgb(255, 200, 0);
+    border-radius: 5%;   
+}
+
+.hr2{
+    margin-left: 0%;
+    width: 460px;
+    height: 20px;
+    background-color: rgba(55, 252, 0, 0.805);
+    border-radius: 5%;
+}
+
+.hr3{
+    margin-left: 0%;
+    width: 50px;
+    height: 20px;
+    background-color: rgb(199, 0, 0);
+    border-radius: 10%;
+}
